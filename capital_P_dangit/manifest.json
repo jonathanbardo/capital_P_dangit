@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "capital_P_dangit",
+	"version": "1.0",
+	"description": "Changes the incorrect capitalization of Wordpress or wordpress into WordPress.",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
+
