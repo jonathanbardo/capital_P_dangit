@@ -3,6 +3,9 @@
 	"name": "capital_P_dangit",
 	"version": "1.0",
 	"description": "Changes the incorrect capitalization of Wordpress or wordpress into WordPress.",
+  "icons": {
+    "128": "icon.png"
+  },
 	"content_scripts": 
 	[
 		{
