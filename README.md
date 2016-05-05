@@ -1,4 +1,4 @@
 capital_P_dangit
 ================
 
-Changes the incorrect capitalization of Wordpress or wordpress into WordPress.
+Chrome extension that changes the incorrect capitalization of Wordpress or wordpress into WordPress.
